@@ -1,0 +1,5 @@
+0 0
+EOI
+goto 2
+halt
+ret

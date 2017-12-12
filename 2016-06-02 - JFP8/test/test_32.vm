@@ -1,0 +1,5 @@
+0 0
+EOI
+call 1
+ret
+halt

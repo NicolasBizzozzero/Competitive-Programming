@@ -1,0 +1,7 @@
+5 0
+EOI
+test 3
+move
+goto 0
+clear
+halt

@@ -1,0 +1,16 @@
+EOI
+plot
+move
+left
+plot
+move
+left
+plot
+move
+left
+plot
+move
+left
+clear
+move
+halt

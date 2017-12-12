@@ -1,0 +1,7 @@
+0 0
+EOI
+call 2
+halt
+call 3
+call 4
+

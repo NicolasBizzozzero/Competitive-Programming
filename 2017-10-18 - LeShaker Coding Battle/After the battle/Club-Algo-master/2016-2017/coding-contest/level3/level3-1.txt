@@ -1,0 +1,43 @@
+10
+Klagenfurt_am_Woerthersee 1376797 5168465
+Dornbirn 937604 5255988
+Sankt_Poelten 1504614 5343088
+Graz 1486969 5217456
+Vienna 1575714 5344029
+Innsbruck 1096656 5239182
+Villach 1333540 5166864
+Salzburg 1255405 5298682
+Wels 1350623 5339394
+Linz 1374952 5354882
+30
+Dornbirn Sankt_Poelten 11967
+Klagenfurt_am_Woerthersee Wels 10376
+Graz Innsbruck 10782
+Graz Linz 10130
+Graz Innsbruck 10782
+Graz Villach 8921
+Wels Vienna 6612
+Innsbruck Wels 11260
+Salzburg Sankt_Poelten 9820
+Klagenfurt_am_Woerthersee Graz 6665
+Salzburg Linz 5035
+Graz Vienna 6134
+Linz Salzburg 5035
+Linz Vienna 6433
+Villach Sankt_Poelten 11914
+Innsbruck Salzburg 9247
+Villach Klagenfurt_am_Woerthersee 2291
+Villach Dornbirn 14524
+Villach Klagenfurt_am_Woerthersee 2291
+Sankt_Poelten Salzburg 9820
+Innsbruck Sankt_Poelten 10545
+Sankt_Poelten Vienna 3650
+Wels Klagenfurt_am_Woerthersee 10376
+Vienna Graz 6134
+Innsbruck Klagenfurt_am_Woerthersee 10849
+Wels Vienna 6612
+Sankt_Poelten Villach 11914
+Salzburg Dornbirn 11474
+Salzburg Sankt_Poelten 9820
+Linz Innsbruck 11081
+Wels Salzburg

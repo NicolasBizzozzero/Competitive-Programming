@@ -1,0 +1,15 @@
+EOI
+plot
+call 4
+clear
+halt
+move
+move
+move
+left
+move
+right
+move
+move
+move
+ret

@@ -1,0 +1,14 @@
+pizza
+pizza.exe
+out.txt
+out_part.txt
+data_part.in
+result*.out
+best.txt
+*.ppm
+*.o
+*.opp
+*.lp
+*.mip
+*.tmp
+glpk-4.60

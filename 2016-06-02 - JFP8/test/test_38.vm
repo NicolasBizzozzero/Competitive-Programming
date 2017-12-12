@@ -1,0 +1,15 @@
+EOI
+call 8
+left
+call 8
+left
+call 8
+left
+call 8
+halt
+move
+move
+move
+move
+plot
+ret

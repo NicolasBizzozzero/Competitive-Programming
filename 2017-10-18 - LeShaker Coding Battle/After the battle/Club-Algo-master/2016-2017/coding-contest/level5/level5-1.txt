@@ -1,0 +1,13 @@
+10
+Klagenfurt_am_Woerthersee 1376797 5168465
+Dornbirn 937604 5255988
+Sankt_Poelten 1504614 5343088
+Graz 1486969 5217456
+Vienna 1575714 5344029
+Innsbruck 1096656 5239182
+Villach 1333540 5166864
+Salzburg 1255405 5298682
+Wels 1350623 5339394
+Linz 1374952 5354882
+Wels Dornbirn
+4 Klagenfurt_am_Woerthersee Villach Salzburg Dornbirn

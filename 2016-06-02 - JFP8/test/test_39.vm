@@ -1,0 +1,9 @@
+100000 0
+EOI
+call 2
+halt
+test 6
+plot
+move
+call 2
+ret

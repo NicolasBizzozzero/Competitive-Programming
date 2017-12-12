@@ -1,0 +1,9 @@
+0 0
+EOI
+call 4
+move
+plot
+halt
+call 5
+call 6
+ret
