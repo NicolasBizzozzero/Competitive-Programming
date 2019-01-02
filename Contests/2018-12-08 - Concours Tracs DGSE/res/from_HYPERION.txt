@@ -1,0 +1,29 @@
+Salut Alex !
+J’espère que ça va.
+Comme je savais que ce ne serait pas facile de se parler quand je t’ai donné la clé USB, voici quelques explications.
+J'ai copié sur la clé des données de back-up des téléphones qui vous intéressent.
+En plus du CEO, Ashpool, sur lequel tu m'avais interrogé, je pense qu'il faut s'intéresser aussi à
+Ono Sagawa, VP R&D,
+Lupus Hobbes, VP Marketing,
+Ernest Maulwurf et François-Joseph Blanc, deux développeurs de la boîte.
+
+J'ai réussi à obtenir pas mal de données sur le serveur de la boite. Le tout est un peu décousu; j'ai pris ce que je pouvais dans la précipitation. Bon courage pour tout fouiller !
+- les logs d'envoi de mail pour toute la boite. (J'ai d'ailleurs l'impression que les 5 n'utilisent pas leur adresse normale pour le projet),
+- les contenus des mails de Maulwurf et Blanc (Ils étaient moins bien protégés que ceux des directeurs),
+- une vidéos qu'ils ont partagée (ça a pas l'air sérieux mais on sait jamais)
+- les relevés GPS de tous les téléphones pros de la boite
+Je ne pense pas qu'ils parleront clairement de leur projet en cours mais il doit y avoir des indices. Personne ne commet jamais d’erreur !
+
+J’ai pu aussi mettre la main sur le smartphone du CEO à l'occasion d'une maintenance et ai pu accéder à quelques infos qui n'étaient pas protégées. Tu trouveras les fichiers suivants:
+- la liste des points WIFI où le smartphone s'est connecté ainsi que les mots de passe associés,
+- une application Android qui n'était pas présente sur le PlayStore. Cela me paraît louche.
+
+
+Tu m'avais parlé d'une affaire en cours avec un de ces pays où il vaut mieux ne pas passer des vacances.
+Je te confirme que ces cinq types travaillent en ce moment sur un projet secret qu'ils ont appelé "129".
+Je n'ai rien trouvé dans les groupwares alors j'ai pensé qu'ils en discutaient via leurs téléphones.
+Ces derniers temps, ils étaient pas mal absents, ou indispos, ce qui me fait penser qu'ils étaient dans un rush pour conclure le deal. 
+J'espère que toi et ton équipe trouveront des trucs utiles dans le dump, j'ai pas envie de recommencer de si tôt, ça m'a stressé de faire cette manip ! ;)
+Merci encore pour l’aide que tu m’as apportée. 
+A bientôt !
+

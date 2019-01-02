@@ -1,0 +1,21 @@
+DEBUT DE MESSAGE
+
+===
+PRIMO : L’Officier Traitant (OT) a rencontré ce jour à 16h00 dans le local dédié aux contacts, la source =HYPERION= qui lui a remis la clé USB objet de cet envoi. Le lieu et l’heure de cette entrevue avaient été convenus la veille à l’initiative de la source, qui avait appelé l’OT lui indiquant avoir un ==cadeau== qui ne pouvait pas attendre.
+
+SECUNDO : Les circonstances de l’entrevue, déclenchée en urgence, n’ont pas permis à HYPERION et à l’OT de s’entretenir librement (présence de tiers). Toutefois, la source, qui avait l’air fébrile, a pu expliquer à l’OT qu’elle avait réussi à copier les backups des smartphones des cibles suivies par le Service. Ces données représentent plusieurs centaines de mégaoctets et de fichiers sont stockés sur la clé USB. Principalement des mails et des images. L’OT laisse la Centrale exploiter ce support et, par précaution, ne l’a pas connecté à un ordinateur. HYPERION pense que ces données ne contiennent pas les éléments les plus incriminants envers son employeur, mais que le Service pourra partiellement trouver des éléments de réponse sur ses soupçons relatifs à l'organisation et ses employés.
+
+TERTIO  : Pour mémoire, HYPERION est employé comme administrateur au sein du départment IT de la société =Bad Guys Group= suivie depuis 2016 par le Service en raison de ses relations douteuses avec des Etats désireux d’acquérir clandestinement des armes de lutte informatique offensive.  HYPERION confirme qu’une transaction de ce type est en cours, probablement en voie de finalisation, d’où l’urgence de sa démarche.
+
+QUARTO : En raison d’une grosse charge de travail qui lui a été donnée par son supérieur, HYPERION sera indisponible durant les prochains jours. Il essaiera toutefois de rester joignable sur la messagerie dédiée aux échanges avec l’OT, pour répondre à d’éventuelles questions ou signaler un fait nouveau.
+
+QUINTO : Le Poste reste mobilisé sur cette affaire et a bien compris les priorités actuelles du Service :
+1/ Identifier les membres de Bad Guys Group impliqués dans les transactions criminelles ;
+2/ Identifier le pays avec lequel une transaction est en cours ;
+3/ Renseigner sur la nature et les capacités du malware objet de cette transaction ;
+4/ Le cas échéant, entraver la transaction ou la livraison.
+
+Outre la source HYPERION, le Poste va chercher à compléter les accès du Service à Bad Guys Group en recrutant une autre personne à l’intérieur-même ou proche de la société .
+
+===
+FIN DE MESSAGE
