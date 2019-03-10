@@ -1,0 +1,18 @@
+{
+    "nb_equipes_mondial": 6671,
+    "meilleur_score_mondial": 1227205,
+    "position_mondial": 953,
+    "nb_equipes_france": 659,
+    "meilleur_score_france": 1188152,
+    "position_france": 107,
+    "nb_equipes_hub": 20,
+    "meilleur_score_hub": 725874,
+    "position_hub": 2,
+    "nom_hub": "France / Sorbonne Université",
+    "score": 678884,
+    "taille_equipe_min": 2,
+    "taille_equipe_max": 4,
+    "taille_mon_equipe": 2,
+    "nom_equipe": "SU DAC",
+    "membres": ["POUYET Adrien", "BIZZOZZERO Nicolas"]
+}
