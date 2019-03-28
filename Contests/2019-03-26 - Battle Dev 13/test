@@ -1,0 +1,57 @@
+#!/bin/bash
+#
+# Used during competition in a Competitive Programming environnement. It's
+# unwise (and pretty useless) to use this script in any other environnement.
+#
+# Produce Unit Tests for a named problem which source code is written in
+# Python 3.
+# The program take the first argument (which should be an integer linking to
+# the problem number). Then performs its predefining tests, comparing them
+# with its predefining outputs.
+#
+# The directory containing all resources for the problem must be
+# named : `exo$NUMBER`.
+# The source code'll be executed by the python3 interpreter, it should
+# be named : `exo$NUMBER`
+# All Inputs must be in their own directory named `inputs`. They must be
+# named `input$INPUT_NUMBER`, and $INPUT_NUMBER must match the respective
+# $OUTPUT_NUMBER for the outputs, miroring the inputs.
+#
+# Error codes:
+# 1: Wrong number of arguments
+
+
+readonly USAGE='Usage: test <problem_number>'
+
+readonly PROBLEM_DIR_PREFIX='exo'
+readonly SOURCE_FILE_PREFIX='exo'
+readonly SOURCE_FILE_SUFFIX='.py'
+readonly INPUTS_DIR='inputs'
+readonly OUTPUTS_DIR='outputs'
+readonly INPUT_PREFIX='input'
+readonly INPUT_SUFFIX='.txt'
+readonly OUTPUT_PREFIX='output'
+readonly OUTPUT_SUFFIX='.txt'
+
+
+if [ "$#" -ne 1 ]; then
+  >&2 echo "Wrong number of arguments"
+  >&2 echo "$USAGE"
+  exit 1
+fi
+
+problem_dir=${PROBLEM_DIR_PREFIX}${1}
+source_file=${problem_dir}/${SOURCE_FILE_PREFIX}${1}${SOURCE_FILE_SUFFIX}
+number_of_inputs=`ls -l ${problem_dir}/${INPUTS_DIR}/* | grep -v ^d | wc -l`
+
+for ((input_index=1;input_index<=$number_of_inputs;input_index++)); do
+  echo "Input $input_index"
+
+  input=${problem_dir}/${INPUTS_DIR}/${INPUT_PREFIX}${input_index}${INPUT_SUFFIX}
+  output=${problem_dir}/${OUTPUTS_DIR}/${OUTPUT_PREFIX}${input_index}${OUTPUT_SUFFIX}
+  printf "Answer  : "
+  cat $input | python3 $source_file
+  printf "Expected: "
+  cat $output
+  printf "\n\n"
+done
